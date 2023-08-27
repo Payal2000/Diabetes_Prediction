@@ -32,6 +32,14 @@ Here's an overview of the modeling process:
 
 -Comparing the accuracy and F1 score of both models.
 
+Conclusion
+----
+Based on our analysis and modeling, we have identified several factors that are closely associated with diabetes risk, including HighChol, BMI, DiffWalk, HighBP, and GenHlth. Our findings indicate that these attributes can play a significant role in determining an individual's diabetes risk.
+
+In terms of model performance, the Logistic Regression model outperformed the Decision Tree model with an accuracy of 84.9%. This suggests that the selected features are well-suited for logistic regression-based classification.
+
+Overall, this project provides valuable insights into diabetes risk factors and demonstrates the effectiveness of machine learning models in predicting diabetes cases based on health attributes.
+
 
 
 
